@@ -13,7 +13,6 @@ With the rapid spread of misinformation online, this project demonstrates how Na
 - 🟢 "REAL" or 🔴 "FAKE" result displayed clearly
 - 🧾 Uses TF-IDF vectorization for meaningful text feature extraction
 - ⚙️ Lightweight, interactive, and easy to deploy (Streamlit)
-
 ---
 
 ## 🛠️ Technologies Used
