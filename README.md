@@ -68,16 +68,4 @@ This project can be enhanced further with:
 
 ---
 
-## 🚀 Demo
-
-Click to try the app: [Streamlit Live App](https://kshitijshinde22-fake-news-detection-app.streamlit.app)
-
----
-
-## 🙋‍♂️ Author
-
-**Kshitij Shinde**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/kshitijshinde22)
-
----
 
